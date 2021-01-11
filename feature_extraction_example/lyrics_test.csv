@@ -1,0 +1,11 @@
+content,pos_tags,ref_tags,label
+i got a girlfriend she's got a boyfriend,PRN VERB DET NOUN PRN VERB DET NOUN,girlsref relationshipsref,Tove
+every little thing means more when you say it,PRN ADJ NOUN VERB ADJ ADV VERB DET,relationshipsref,Tove
+you see i'm looking lonely waiting for somebody,PRN VERB PRN VERB ADJ VERB PREP NOUN,relationshipsref,Tove
+pain from the past like a small piece of glass in my heart,NOUN PREP DET NOUN ADV DET ADJ NOUN PREP NOUN PREP PRN NOUN,sadnessref,Tove
+i say hi you say hi we stay high you look so pretty yeah,PRN VERB INT PRN VERB INT PRN VERB ADJ PRN VERB ADV ADJ INT,drugref relationshipsref,Tove
+pull up and we're dripping in gold,VERB PREP CONJ PRN VERB PREP NOUN,luxuryref,Charli
+got offshore bank accounts and diamond blue palm trees,VERB ADJ ADJ NOUN CONJ ADJ ADJ ADJ NOUN,luxuryref,Charli
+do you feel all right do you need me by your side,VERB PRN VERB ADV ADJ VERB PRN VERB PRN PREP PRN NOUN,relationshipsref,Charli
+i just want to go back back to 1999,PRN ADV VERB PREP VERB ADV PREP PREP NUM,controlref,Charli
+rollercoaster ride in the fast lane,ADJ NOUN PREP DET ADJ NOUN,controlref,Charli

@@ -1,0 +1,21 @@
+content,pos_tags,ref_tags,label
+hey you got drugs just need a pick-me-up,INT PRN VERB NOUN ADV VERB DET NOUN,drugref sadnessref,Tove
+you're gone and i got to stay high all the time,PRN ADJ CONJ PRN VERB PREP VERB ADJ ADV DET NOUN,drugref relationshipsref,Tove
+if you're sitting with us then you're in too,CONJ PRN VERB ADV PRN PREP PRN PREP ADV,relationshipsref,Tove
+when i fuck things up in front of camera flashes,PREP PRN VERB NOUN PREP PREP PREP PREP ADJ NOUN,fameref,Tove
+i don't ever want to let you go now,PRN VERB ADV VERB PREP VERB PRN VERB ADV,relationshipsref,Tove
+she was just as bad as the boys,PRN VERB ADV ADV ADJ ADV DET NOUN,relationshipsref girlsref,Tove
+years of change now they say never change never did,NOUN PREP NOUN ADV PRN VERB ADV VERB ADV VERB,sadnessref,Tove
+i'm in a cycle yeah i admit it,PRN PREP DET NOUN INT PRN VERB DET,sadnessref,Tove
+baby don't you see i'm not on drugs i'm not on drugs i'm just in love,NOUN VERB PRN VERB PRN ADV PREP NOUN PRN ADV PREP NOUN PRN ADV PREP NOUN,drugref relationshipsref,Tove
+come wherever now or never i follow you anywhere you go,VERB ADV ADV CONJ ADV PRN VERB PRN ADV PRN VERB,relationshipsref,Tove
+sorry about grammy night was in a different place high and drifting by,ADJ PREP ADJ NOUN VERB PREP DET ADJ NOUN ADJ CONJ VERB PREP,drugref,Charli
+tears are rolling down my face tears are rolling down my face,NOUN VERB VERB ADV PRN NOUN NOUN VERB VERB ADV PRN NOUN,sadnessref,Charli
+i was busy thinking about a porsche,PRN VERB ADJ VERB PREP DET PROP,luxuryref,Charli
+if you're feeling real sad then you know who to call,CONJ PRN VERB ADV ADJ PREP PRN VERB PRN PREP VERB,relationshipsref,Charli
+i was busy thinking about boys boys boys,PRN VERB ADJ VERB PREP NOUN NOUN NOUN,boysref,Charli
+you're picture-perfect blue sunbathing under the moon,PRN ADV ADJ VERB PREP DET NOUN,boysref,Charli
+like a white mercedes always been driving too fast,ADV DET ADJ PROP ADV VERB VERB ADV ADJ,luxuryref controlref,Charli
+i go hard i go fast and i never look back,PRN VERB ADJ PRN VERB ADJ CONJ PRN ADV VERB PREP,otherref,Charli
+lavender lamborghini pull up in a blue bikini,ADJ PROP VERB PREP PREP DET ADJ NOUN,luxuryref,Charli
+pull up pull up pull up pull up right to your love,VERB PREP VERB PREP VERB PREP VERB PREP ADV PREP PRN NOUN,relationshipsref,Charli
